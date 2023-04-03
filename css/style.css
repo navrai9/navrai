@@ -49,8 +49,8 @@
 .navbar-toggler {
     padding: 0.25rem 0.75rem;
     font-size: 1.25rem;
+    width: 51px;
     line-height: 1;
-    background-color:
     border: 1px solid !important;
     border-radius: 0.25rem;
     transition: box-shadow .15s ease-in-out;
